@@ -12,7 +12,7 @@ This repository holds all supplemental files for "Development of Pre-service Che
 <br>
 <br>
 <header>
-  <h1>Quick Key to File Directory</h1>
+  <h1>Quick Key to File Directory: Raw Data and Software Links</h1>
   <p>Note: The final data set used in analysis is available for public use. Additionally, deidentified raw survey data is available here. Due to IRB Restrictions all data files used in analysis that contain institutional information (Name, ID, etc.) prior to the final merged, and deidientified data are available upon direct request. Following approval, all deidentified data including institutional info will be shared directly.</p>
 </header><br>
 <br>
@@ -33,8 +33,20 @@ This repository holds all supplemental files for "Development of Pre-service Che
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls">TPACK Lesson Plan Design Scores</a></td>
   </tr>
   <tr>
-    <td>Citizen inquiry mobile app (Example 1)</td>
+    <td>Ocean Clean-Up: citizen inquiry mobile app (Example 1)</td>
     <td>A citizen science mobile app to track plastic debris transport in rivers</td>
     <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965">The Ocean Cleanup Survey App(iOS)</a></td>
+  </tr>
+  <tr>
+    <td>Debris Tracker: Citizen inquiry mobile app (Example 2)</td>
+    <td>A citizen science mobile app to track data on plastic pollution in our community</td>
+    <td><a href="https://apps.apple.com/us/app/marine-debris-tracker/id432758761?mt=8&amp;ign-mpt=uo%3D4">Debris Tracker App(iOS)<br>
+    <a href="https://play.google.com/store/apps/details?id=edu.uga.engr.geolog.marinedebristrack">Debris Tracker App(Andriod)</a></td>
+  </tr>
+  <tr>
+    <td>iNaturalists: Citizen inquiry mobile app (Example 3)</td>
+    <td>A citizen science mobile app to track data on identify plants and animals surrounding us</td>
+    <td><a href="https://apps.apple.com/us/app/inaturalist/id421397028">iNaturalists App(iOS)<br>
+    <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">iNaturalists App(Andriod)</a></td>
   </tr>
 </table>
