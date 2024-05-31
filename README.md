@@ -33,7 +33,7 @@ This repository holds all supplemental files for "Development of Pre-service Che
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls">TPACK Lesson Plan Design Scores</a></td>
   </tr>
   <tr>
-    <td>Citizen inquiry mobile app no.1</td>
+    <td>Citizen inquiry mobile app (Example 1)</td>
     <td>A citizen science mobile app to track plastic debris transport in rivers</td>
     <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965">The Ocean Cleanup Survey App(iOS)</a></td>
   </tr>
