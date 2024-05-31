@@ -23,9 +23,9 @@ This repository holds all supplemental files for "Development of Pre-service Che
     <th>Link</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>TPACK Test Scores.xls</td>
+    <td>Excel file containing all raw data of TPACK scores measured by multiple-choice test</td>
+    <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Test%20Scores.xls">TPACK Test Scores</a></td>
   </tr>
   <tr>
     <td>TPACK Lesson Plan Design Scores.xls</td>
