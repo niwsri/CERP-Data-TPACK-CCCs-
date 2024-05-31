@@ -35,6 +35,6 @@ This repository holds all supplemental files for "Development of Pre-service Che
   <tr>
     <td>Citizen inquiry mobile app no.1</td>
     <td>A citizen science mobile app to track plastic debris transport in rivers</td>
-    <td><a href="https://theoceancleanup.com/research-old/citizen-science/">The Ocean Cleanup Survey App</a></td>
+    <td><a href="https://apps.apple.com/nl/app/the-ocean-cleanup-survey-app/id1533071965">The Ocean Cleanup Survey App(iOS)</a></td>
   </tr>
 </table>
