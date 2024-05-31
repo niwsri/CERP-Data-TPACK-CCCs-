@@ -49,4 +49,9 @@ This repository holds all supplemental files for "Development of Pre-service Che
     <td><a href="https://apps.apple.com/us/app/inaturalist/id421397028">iNaturalists App(iOS)<br>
     <a href="https://play.google.com/store/apps/details?id=org.inaturalist.android">iNaturalists App(Andriod)</a></td>
   </tr>
+  <tr>
+    <td>Vivista</td>
+    <td>a 360° video editor and player for producing interactive video object</td>
+    <td><a href="https://github.com/pxl-research/Vivista-Legacy/releases">Vvista software</a></td>
+  </tr>
 </table>
