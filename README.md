@@ -28,7 +28,7 @@ This repository holds all supplemental files for "Development of Pre-service Che
     <td>Germany</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
+    <td>TPACK Lesson Plan Design Scores.xls</td>
     <td>Excel file containing all raw data of TPACK scores measured by lesson plan tasks</td>
     <td><a href="https://github.com/niwsri/CERP-Data-TPACK-CCCs-/blob/main/TPACK%20Lesson%20Plan%20Design%20Scores.xls">TPACK Lesson Plan Design Scores</a></td>
   </tr>
