@@ -30,6 +30,6 @@ This repository holds all supplemental files for "Development of Pre-service Che
   <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Excel file containing all raw data of TPACK scores measured by lesson plan tasks</td>
-    <td>Mexico</td>
+    <td><a href="url">Mexico</a></td>
   </tr>
 </table>
