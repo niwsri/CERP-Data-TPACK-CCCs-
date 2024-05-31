@@ -54,4 +54,9 @@ This repository holds all supplemental files for "Development of Pre-service Che
     <td>a 360° video editor and player for producing interactive video object</td>
     <td><a href="https://github.com/pxl-research/Vivista-Legacy/releases">Vvista software</a></td>
   </tr>
+  <tr>
+    <td>ChemDraw</td>
+    <td>a software for drawing molecule structures and finding stereochemistry of the molecules</td>
+    <td><a href="https://chemistrydocs.com/chemdraw-pro-8-0/">ChemDraw Pro 8.0</a></td>
+  </tr>
 </table>
