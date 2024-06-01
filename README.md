@@ -57,6 +57,6 @@ This repository holds all supplemental files for "Development of Pre-service Che
   <tr>
     <td>ChemDraw</td>
     <td>a software for drawing molecule structures and finding stereochemistry of the molecules</td>
-    <td><a href="https://chemistrydocs.com/chemdraw-pro-8-0/">ChemDraw Pro 8.0</a></td>
+    <td><a href="https://revvitysignals.com/products/research/chemdraw">ChemDraw Software</a></td>
   </tr>
 </table>
